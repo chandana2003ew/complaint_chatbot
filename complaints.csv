@@ -1,0 +1,7 @@
+text,category,priority
+"My internet is not working",technical,urgent
+"I was charged twice",billing,high
+"I need help with setup",support,medium
+"App is crashing often",technical,high
+"Need account details",billing,low
+"Phone line is dead",technical,urgent
